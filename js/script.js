@@ -9,4 +9,6 @@ function holaMundo(){
 function holaMundoAlert(){
     alert("Este es un hola mundo desde un alert")
 }
+let variable = 5 //let funciona con solo adentro del bloque donde esta definida dicha variable
+const PI = 3.1416
 
