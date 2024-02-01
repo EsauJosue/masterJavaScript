@@ -16,3 +16,11 @@ console.log(texto1.toLowerCase());
 console.log("La longitud del texto vacio es de: "+vacio.length)
 //Calcular longitud de un array
 console.log("La longitud de un array es de: ", arreglo.length)
+
+//Concatenar - Unir textos 
+var textoTotal = texto1 + texto2;
+
+var textoConcat = texto1.concat(" "+ texto2);
+
+console.log(textoTotal);
+console.log(textoConcat);
